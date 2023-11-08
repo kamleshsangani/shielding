@@ -17,7 +17,7 @@
 						<key>kind</key>
 						<string>display-image</string>
 						<key>needs-shine</key>
-						<false/>
+						<true/>
 						<key>url</key>
 						<string>https://storage.googleapis.com/ab-gcp-pro-hrms-app-bucket/app_icon.png</string>
 					</dict>
@@ -27,11 +27,11 @@
 					<key>bundle-identifier</key>
 					<string>com.arabbank.hrmsenterprise</string>
 					<key>bundle-version</key>
-					<string>1.0.0</string>
+					<string>4</string>
 					<key>kind</key>
 					<string>software</string>
 					<key>title</key>
-					<string>AB-Link</string>
+					<string>Arabi HR</string>
 				</dict>
 			</dict>
 		</array>
